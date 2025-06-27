@@ -1,7 +1,7 @@
 ## Hi I'm Ben :fox_face:
 
 
-:computer: _Software Engenieer at [Fitnezz.io](https://github.com/bendevs)_ :desert_island:Living in La Paz :Bolivia:
+:computer: _Software Engenieer at [nicosoft.io](https://github.com/bendevs)_ :desert_island:Living in La Paz :Bolivia:
 
 ### My Tech Stack
 
