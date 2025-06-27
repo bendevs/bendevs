@@ -1,6 +1,5 @@
 ## Hi I'm Ben :fox_face:
 
-//![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
 
 :computer: _Software Engenieer at [Fitnezz.io](https://github.com/bendevs)_ :desert_island:Living in La Paz :Bolivia:
 
@@ -42,4 +41,4 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 ---
-⭐️ From [Gaboso](https://github.com/Gaboso)
+⭐️ From [Bendevs](https://github.com/bendevs)
