@@ -1,6 +1,6 @@
-## Hi I'm Gaboso :fox_face:
+## Hi I'm Ben :fox_face:
 
-![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
+//![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
 
 :computer: _Software Engenieer at [Fitnezz.io](https://github.com/bendevs)_ :desert_island:Living in La Paz :Bolivia:
 
