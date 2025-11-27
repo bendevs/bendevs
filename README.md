@@ -41,4 +41,4 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 ---
-⭐️ From [Bendevs](https://github.com/bendevs)
+⭐️ From [Bendevs](https://github.com/bendevs) © 2025 bendevs All rights reserved.
